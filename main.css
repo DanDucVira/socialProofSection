@@ -3,3 +3,24 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    font-size: 0.9rem;
+
+}
+
+.top {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.bottom {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.container {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+}
