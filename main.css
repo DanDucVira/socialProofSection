@@ -14,9 +14,21 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+html{
+    height: 100vh;
+}
 body {
     font-size: 0.9rem;
     font-family: 'Spartan', sans-serif;
+    height: 100vh;
 
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
 }
